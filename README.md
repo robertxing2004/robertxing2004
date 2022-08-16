@@ -12,7 +12,7 @@ Aside from school and work, I enjoy travelling all over the world, taking lots o
   "program": "software engineering co-op + ivey hba",
   "year": "first year",
   "seeking internships": true,
-  "goals": "to build technologies that improve society"
+  "goal": "to build technologies that improve society"
 }
 ```
 
