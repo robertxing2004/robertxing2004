@@ -9,7 +9,7 @@ Aside from school and work, I enjoy travelling all over the world, taking lots o
 {
   "name": "robert xing",
   "school": "western university",
-  "program": "software engineering co-op + ivey hba",
+  "program": "software engineering co-op",
   "year": "first year",
   "seeking internships": true,
   "goal": "to build technologies that improve society"
