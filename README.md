@@ -17,7 +17,7 @@ Aside from school and work, I enjoy travelling all over the world, taking lots o
 ```
 
 ### what i'm up to 🌿
-I'm going into university in September of 2022, and I'm super excited to meet a whole lot of new people and shape the next chapter of my life! In my free time I'm working on my side projects, enjoying social time with friends and learning about cool new technologies in the phone, computer, photo/video, drone, and electric vehicle sectors.
+I just started my first year of university, and I'm super excited to meet a whole lot of new people and shape the next chapter of my life! In my free time I'm working on my side projects, enjoying social time with friends and learning about cool new technologies in the phone, computer, photo/video, drone, and electric vehicle sectors.
 
 ### connect with me! 📱
 [linkedin](https://www.linkedin.com/in/robert-xing/)\
