@@ -20,5 +20,11 @@ Aside from school and work, I enjoy travelling all over the world and taking lot
 I just started my first year of university, and I'm super excited to meet a whole lot of new people and shape the next chapter of my life! In my free time I'm working on my side projects, enjoying social time with friends and learning about cool new technologies in the phone, computer, photo/video, drone, and electric vehicle sectors.
 
 ### connect with me! 📱
-[linkedin](https://www.linkedin.com/in/robertxing2004/)\
-[email](mailto:robertxing2004@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/robertxing2004/" target="_blank">
+    <img src="https://www.freeiconspng.com/uploads/linkedin-icon-31.png" height="40" width="40">     
+  </a>
+  <a href="mailto:robertxing2004@gmail.com" target="_blank">
+    <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="40" width="40">
+  </a>
+</p>
