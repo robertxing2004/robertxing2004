@@ -17,7 +17,7 @@ Aside from school and work, I enjoy travelling all over the world and taking lot
 ```
 
 ### what i'm up to 🌿
-I'm almost done my first year of university, and I'm currently looking for summer internship/co-op opportunities. I had a great time in first year, and I'm already looking forward to second year!
+I'm almost done my first year of university (general engineering), and I'm currently looking for summer internship/co-op opportunities. I had a great time in first year, and I'm already looking forward to second year!
 
 ### connect with me! 📱
 <p>
