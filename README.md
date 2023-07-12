@@ -15,7 +15,7 @@ Like I said, I'm a software engineering student (woohoo!) at Western University.
 ```
 
 ### what i'm up to 🌿
-Currently looking forward to my second year of university. I'm spending the summer contributing to open source projects, working on some personal side projects, and playing sports and video games.
+Currently looking forward to my second year of university. I'm spending the summer contributing to open source projects, working on some personal side projects, and just enjoying the weather.
 
 ### connect with me! 📱
 <p>
