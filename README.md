@@ -1,7 +1,7 @@
 ## hi! my name is robert (he/him)
 ### i'm an engineering student and software developer 🌔
 
-Like I said, I'm a software engineering student (woohoo!) at Western University. I'm interested in product/project management, fullstack development, iOS development, UI/UX design, and machine learning. Aside from school and work, I enjoy travelling all over the world and taking lots of photos! I also have a huge love for aviation, and I hope to get my Canadian private pilot's license once I have the time and money to do so!
+I'm studying software engineering (woohoo!) at Western University, interested in product/project management, fullstack development, UI/UX design, and machine learning. Aside from school, I enjoy travelling and photography. I also have a huge love for aviation, and I hope to get my Canadian private pilot's license once I have the time and money to do so.
 
 ```json
 {
