@@ -1,21 +1,21 @@
 ## hi! my name is robert (he/him)
 ### i'm an engineering student and software developer 🌔
 
-I'm studying software engineering (woohoo!) at Western University, interested in product/project management, fullstack development, UI/UX design, and machine learning. Aside from school, I enjoy travelling and photography. I also have a huge love for aviation, and I hope to get my Canadian or American private pilot's license in the future.
+i'm a fourth year student studying software engineering and business at Western University and the Ivey Business School, interested in production/infrastructure engineering, fullstack development, product/project management, and electric vehicles. Aside from school, I enjoy travelling, photography, and various sports (golf, badminton, and skiing). I also have a huge love for aviation, and I hope to get my private pilot's license in the future.
 
 ```json
 {
   "name": "robert xing",
   "school": "western university",
-  "program": "software engineering",
-  "year": "second year",
+  "program": "software engineering + business administration",
+  "year": "fourth year",
   "seeking internships": true,
-  "goal": "to build sustainable tech for social good"
+  "goal": "building tech to accelerate clean energy transformation"
 }
 ```
 
 ### what i'm up to 🌿
-Back in the saddle for second year!
+currently working on platform infra at magnet forensics!
 
 ### connect with me! 📱
 <p>
